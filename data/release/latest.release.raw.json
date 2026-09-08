@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 1218695,
       "digest": "sha256:334b1edc31fc288195338a1eca5ca831fea77bdee7c6acf6f4771c2e43a48798",
-      "download_count": 23,
+      "download_count": 24,
       "created_at": "2026-08-22T06:43:13Z",
       "updated_at": "2026-08-22T06:43:13Z",
       "browser_download_url": "https://github.com/matthart1983/syswatch/releases/download/v0.10.0/syswatch-macos-x86_64.tar.gz"
