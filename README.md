@@ -7,7 +7,7 @@ Single-host system diagnostics TUI. Sibling to netwatch. Twelve tabs, plain-Engl
 - **Latest release**: `v0.10.0` (2026-08-22)
 - **Last commit**: 2026-08-22
 - **License**: MIT
-- **Stars**: 852 · **Forks**: 36 · **Open issues**: 13 · **Contributors**: 4
+- **Stars**: 853 · **Forks**: 36 · **Open issues**: 13 · **Contributors**: 4
 
 ## Installation
 
@@ -19,6 +19,6 @@ See <https://x-cmd.com/install/syswatch> for details.
 
 ## Data
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-08T12:38:32Z._
+_Last regenerated: 2026-09-09T06:25:59Z._
