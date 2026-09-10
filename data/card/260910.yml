@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.10.0"
   latestRelease: "v0.10.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T06:26:13Z
+  collectedAt: 2026-09-10T20:17:20Z
 timeline:
   created: 2026-05-02
   lastCommit: 2026-08-22
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-08-22
   lastPrerelease: 
 popularity:
-  star: 854
+  star: 860
   watcher: 7
   fork: 36
   release: 25
@@ -85,7 +85,7 @@ total:
   commit: 82
 ---
 path: /home/runner/.x-repo/github.com/matthart1983/syswatch
-collectedAt: 2026-09-10T06:26:14Z
+collectedAt: 2026-09-10T20:17:31Z
 loc:
   Rust:
     code: 18040
