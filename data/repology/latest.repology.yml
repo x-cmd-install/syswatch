@@ -2,8 +2,8 @@
   srcname: syswatch
   binname: syswatch
   visiblename: syswatch
-  version: 0.10.0
-  origversion: 0.10.0-1
+  version: 0.11.0
+  origversion: 0.11.0-1
   status: newest
   summary: Single-host, read-only system diagnostics TUI — twelve tabs covering CPU, memory, disks, processes, GPU, power, services, network, plus a Timeline scrubber and an Insights anomaly engine
   maintainers:
@@ -27,14 +27,14 @@
   visiblename: syswatch
   version: 0.10.0
   origversion: null
-  status: newest
+  status: outdated
   summary: Cross-platform system diagnostics TUI
 - repo: nix_unstable
   srcname: syswatch
   visiblename: syswatch
   version: 0.10.0
   origversion: null
-  status: newest
+  status: outdated
   summary: Single-host system diagnostics TUI tool
   maintainers:
     - mail@fabian-affolter.ch
