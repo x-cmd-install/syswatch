@@ -38,7 +38,7 @@ Total: **18,406** lines of code across **52** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 863 · **Forks**: 36 · **Open issues**: 13 · **Contributors**: 4
+- **Stars**: 867 · **Forks**: 36 · **Open issues**: 13 · **Contributors**: 4
 
 ## Totals (cumulative)
 
@@ -68,11 +68,11 @@ Total: **18,406** lines of code across **52** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **5** distros on [repology.org](https://repology.org/project/syswatch). **1** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
+Reported by **5** distros on [repology.org](https://repology.org/project/syswatch). **2** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `0.10.0` | ⚠️ outdated |
+| Homebrew | `0.11.0` | ✅ latest |
 | Nix unstable | `0.10.0` | ⚠️ outdated |
 
 ## Improve this data
@@ -84,4 +84,4 @@ Install metadata for syswatch lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T06:21:14Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T18:24:38Z._

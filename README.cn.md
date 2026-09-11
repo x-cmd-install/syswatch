@@ -38,7 +38,7 @@ x install syswatch
 
 ## 流行度
 
-- **Star**: 863 · **Fork**: 36 · **开放 issue**: 13 · **贡献者**: 4
+- **Star**: 867 · **Fork**: 36 · **开放 issue**: 13 · **贡献者**: 4
 
 ## 累计统计
 
@@ -68,11 +68,11 @@ x install syswatch
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/syswatch) 上共有 **5** 个发行版报告此项目。**1** 个 ✅ 已是最新上游版本，**4** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/syswatch) 上共有 **5** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**3** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
-| Homebrew | `0.10.0` | ⚠️ outdated |
+| Homebrew | `0.11.0` | ✅ latest |
 | Nix unstable | `0.10.0` | ⚠️ outdated |
 
 ## 改进这些数据
@@ -84,4 +84,4 @@ syswatch 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260911.yml` · 2026-09-11T06:21:15Z._
+_数据快照: `data/card/260911.yml` · 2026-09-11T18:24:38Z._
