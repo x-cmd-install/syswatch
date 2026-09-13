@@ -25,9 +25,9 @@
 - repo: homebrew
   srcname: syswatch
   visiblename: syswatch
-  version: 0.13.0
+  version: 0.14.1
   origversion: null
-  status: outdated
+  status: newest
   summary: Cross-platform system diagnostics TUI
 - repo: nix_unstable
   srcname: syswatch
