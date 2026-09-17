@@ -38,7 +38,7 @@ Total: **20,000** lines of code across **53** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 879 · **Forks**: 38 · **Open issues**: 14 · **Contributors**: 5
+- **Stars**: 881 · **Forks**: 38 · **Open issues**: 14 · **Contributors**: 5
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **20,000** lines of code across **53** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-17 | 7 | 9 | 0 | 0 | 1 | 17 |
-| last60d | 2026-07-18 | 13 | 13 | 0 | 3 | 1 | 37 |
-| 90d | 2026-06-18 | 13 | 13 | 0 | 4 | 1 | 42 |
-| last180d | 2026-03-20 | 31 | 20 | 0 | 13 | 1 | 92 |
-| 360d | 2025-09-21 | 31 | 20 | 0 | 13 | 1 | 92 |
-| last720d | 2024-09-26 | 31 | 20 | 0 | 13 | 1 | 97 |
+| 30d | 2026-08-18 | 7 | 9 | 0 | 0 | 1 | 17 |
+| last60d | 2026-07-19 | 13 | 12 | 0 | 2 | 1 | 37 |
+| 90d | 2026-06-19 | 13 | 13 | 0 | 4 | 1 | 42 |
+| last180d | 2026-03-21 | 31 | 20 | 0 | 13 | 1 | 92 |
+| 360d | 2025-09-22 | 31 | 20 | 0 | 13 | 1 | 92 |
+| last720d | 2024-09-27 | 31 | 20 | 0 | 13 | 1 | 97 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for syswatch lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260916.yml` · 2026-09-16T06:54:27Z._
+_Snapshot: `data/card/260917.yml` · 2026-09-17T06:49:03Z._
