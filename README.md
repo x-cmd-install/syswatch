@@ -4,7 +4,7 @@
 
 Single-host system diagnostics TUI. Sibling to netwatch. Twelve tabs, plain-English insights, session scrubber. macOS + Linux.
 
-![syswatch](https://repo.x-cmd.io/syswatch.svg)
+[![x-cmd/install — syswatch Code Quality Monitoring Repo Card](https://repo.x-cmd.io/syswatch.svg)](https://x-cmd.com/install/syswatch)
 
 ## Install
 
@@ -38,22 +38,22 @@ Total: **20,000** lines of code across **53** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 883 · **Forks**: 39 · **Open issues**: 14 · **Contributors**: 5
+- **Stars**: 890 · **Forks**: 39 · **Open issues**: 14 · **Contributors**: 5
 
 ## Totals (cumulative)
 
-- **Releases**: 31 · **Merged PRs**: 20 · **Open PRs**: 0 · **Closed issues**: 13 · **Open issues**: 1 · **Commits**: 97
+- **Releases**: 31 · **Merged PRs**: 20 · **Open PRs**: 0 · **Closed issues**: 14 · **Open issues**: 0 · **Commits**: 97
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 7 | 9 | 0 | 0 | 1 | 17 |
-| last60d | 2026-07-20 | 11 | 12 | 0 | 2 | 1 | 37 |
-| 90d | 2026-06-20 | 13 | 13 | 0 | 4 | 1 | 42 |
-| last180d | 2026-03-22 | 31 | 20 | 0 | 13 | 1 | 92 |
-| 360d | 2025-09-23 | 31 | 20 | 0 | 13 | 1 | 92 |
-| last720d | 2024-09-28 | 31 | 20 | 0 | 13 | 1 | 97 |
+| 30d | 2026-08-21 | 7 | 9 | 0 | 1 | 0 | 15 |
+| last60d | 2026-07-22 | 11 | 12 | 0 | 2 | 0 | 29 |
+| 90d | 2026-06-22 | 13 | 13 | 0 | 5 | 0 | 42 |
+| last180d | 2026-03-24 | 31 | 20 | 0 | 14 | 0 | 92 |
+| 360d | 2025-09-25 | 31 | 20 | 0 | 14 | 0 | 92 |
+| last720d | 2024-09-30 | 31 | 20 | 0 | 14 | 0 | 97 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for syswatch lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:40:03Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:35:08Z._

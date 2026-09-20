@@ -4,7 +4,7 @@
 
 Single-host system diagnostics TUI. Sibling to netwatch. Twelve tabs, plain-English insights, session scrubber. macOS + Linux.
 
-![syswatch](https://repo.x-cmd.io/syswatch.svg?lang=zh)
+[![x-cmd/install — syswatch Code Quality Monitoring Repo Card](https://repo.x-cmd.io/syswatch.svg?lang=zh)](https://x-cmd.com/install/syswatch)
 
 ## 安装
 
@@ -38,22 +38,22 @@ x install syswatch
 
 ## 流行度
 
-- **Star**: 883 · **Fork**: 39 · **开放 issue**: 14 · **贡献者**: 5
+- **Star**: 890 · **Fork**: 39 · **开放 issue**: 14 · **贡献者**: 5
 
 ## 累计统计
 
-- **发布数**: 31 · **已合并 PR**: 20 · **开放 PR**: 0 · **已关闭 issue**: 13 · **开放 issue**: 1 · **提交数**: 97
+- **发布数**: 31 · **已合并 PR**: 20 · **开放 PR**: 0 · **已关闭 issue**: 14 · **开放 issue**: 0 · **提交数**: 97
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 7 | 9 | 0 | 0 | 1 | 17 |
-| last60d | 2026-07-20 | 11 | 12 | 0 | 2 | 1 | 37 |
-| 90d | 2026-06-20 | 13 | 13 | 0 | 4 | 1 | 42 |
-| last180d | 2026-03-22 | 31 | 20 | 0 | 13 | 1 | 92 |
-| 360d | 2025-09-23 | 31 | 20 | 0 | 13 | 1 | 92 |
-| last720d | 2024-09-28 | 31 | 20 | 0 | 13 | 1 | 97 |
+| 30d | 2026-08-21 | 7 | 9 | 0 | 1 | 0 | 15 |
+| last60d | 2026-07-22 | 11 | 12 | 0 | 2 | 0 | 29 |
+| 90d | 2026-06-22 | 13 | 13 | 0 | 5 | 0 | 42 |
+| last180d | 2026-03-24 | 31 | 20 | 0 | 14 | 0 | 92 |
+| 360d | 2025-09-25 | 31 | 20 | 0 | 14 | 0 | 92 |
+| last720d | 2024-09-30 | 31 | 20 | 0 | 14 | 0 | 97 |
 
 ## Release 资产
 
@@ -76,4 +76,4 @@ syswatch 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T06:40:03Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T06:35:08Z._
