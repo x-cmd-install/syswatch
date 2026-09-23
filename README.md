@@ -2,9 +2,9 @@
 
 [中文版本](./README.cn.md)
 
-Single-host system diagnostics TUI. Sibling to netwatch. Twelve tabs, plain-English insights, session scrubber. macOS + Linux.
+Single-host system diagnostics TUI. 
 
-[![x-cmd/install — syswatch Code Quality Monitoring Repo Card](https://repo.x-cmd.io/syswatch.svg)](https://x-cmd.com/install/syswatch)
+[![x-cmd/install — syswatch Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/syswatch.svg)](https://x-cmd.com/install/syswatch)
 
 ## Install
 
@@ -14,7 +14,7 @@ x install syswatch
 
 ## Code insight
 
-Total: **20,000** lines of code across **53** files in the top 5 languages.
+Total: **20,000** lines of code across **54** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -22,7 +22,7 @@ Total: **20,000** lines of code across **53** files in the top 5 languages.
 | Nix | 62 | 18 | 9 | 2 |
 | Toml | 52 | 36 | 9 | 1 |
 | Sh | 27 | 42 | 10 | 2 |
-| Markdown | 0 | 241 | 66 | 2 |
+| Markdown | 0 | 269 | 80 | 3 |
 
 ## Source
 
@@ -33,27 +33,27 @@ Total: **20,000** lines of code across **53** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.14.2` (2026-09-14)
-- **Last commit**: 2026-09-14
+- **Last commit**: 2026-09-22
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 894 · **Forks**: 40 · **Open issues**: 14 · **Contributors**: 5
+- **Stars**: 896 · **Forks**: 40 · **Open issues**: 14 · **Contributors**: 5
 
 ## Totals (cumulative)
 
-- **Releases**: 31 · **Merged PRs**: 20 · **Open PRs**: 0 · **Closed issues**: 14 · **Open issues**: 0 · **Commits**: 97
+- **Releases**: 31 · **Merged PRs**: 20 · **Open PRs**: 0 · **Closed issues**: 14 · **Open issues**: 0 · **Commits**: 98
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 6 | 9 | 0 | 1 | 0 | 15 |
-| last60d | 2026-07-24 | 11 | 12 | 0 | 2 | 0 | 29 |
-| 90d | 2026-06-24 | 13 | 13 | 0 | 5 | 0 | 42 |
-| last180d | 2026-03-26 | 31 | 20 | 0 | 14 | 0 | 92 |
-| 360d | 2025-09-27 | 31 | 20 | 0 | 14 | 0 | 92 |
-| last720d | 2024-10-02 | 31 | 20 | 0 | 14 | 0 | 97 |
+| 30d | 2026-08-24 | 6 | 9 | 0 | 1 | 0 | 16 |
+| last60d | 2026-07-25 | 11 | 12 | 0 | 2 | 0 | 30 |
+| 90d | 2026-06-25 | 13 | 13 | 0 | 5 | 0 | 43 |
+| last180d | 2026-03-27 | 31 | 20 | 0 | 14 | 0 | 93 |
+| 360d | 2025-09-28 | 31 | 20 | 0 | 14 | 0 | 93 |
+| last720d | 2024-10-03 | 31 | 20 | 0 | 14 | 0 | 98 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for syswatch lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:46:58Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:55:41Z._
