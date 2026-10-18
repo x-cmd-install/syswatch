@@ -14,11 +14,11 @@ x install syswatch
 
 ## 代码洞察
 
-合计: **20,021** 行代码（覆盖前 5 种语言、共 **54** 个文件）。
+合计: **20,059** 行代码（覆盖前 5 种语言、共 **54** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 19,880 | 1,364 | 1,694 | 46 |
+| Rust | 19,918 | 1,371 | 1,694 | 46 |
 | Nix | 62 | 18 | 9 | 2 |
 | Toml | 52 | 36 | 9 | 1 |
 | Sh | 27 | 42 | 10 | 2 |
@@ -32,40 +32,40 @@ x install syswatch
 
 ## 发布
 
-- **最新版本**: `v0.14.3` (2026-10-10)
-- **最近提交**: 2026-10-10
+- **最新版本**: `v0.14.4` (2026-10-17)
+- **最近提交**: 2026-10-17
 - **Release 含资产**: 7 个
 
 ## 流行度
 
-- **Star**: 914 · **Fork**: 42 · **开放 issue**: 15 · **贡献者**: 5
+- **Star**: 913 · **Fork**: 42 · **开放 issue**: 15 · **贡献者**: 6
 
 ## 累计统计
 
-- **发布数**: 32 · **已合并 PR**: 20 · **开放 PR**: 1 · **已关闭 issue**: 15 · **开放 issue**: 0 · **提交数**: 99
+- **发布数**: 33 · **已合并 PR**: 21 · **开放 PR**: 0 · **已关闭 issue**: 15 · **开放 issue**: 0 · **提交数**: 101
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-17 | 1 | 0 | 1 | 1 | 0 | 2 |
-| last60d | 2026-08-18 | 8 | 9 | 1 | 2 | 0 | 19 |
-| 90d | 2026-07-19 | 14 | 12 | 1 | 4 | 0 | 39 |
-| last180d | 2026-04-20 | 32 | 20 | 1 | 15 | 0 | 94 |
-| 360d | 2025-10-22 | 32 | 20 | 1 | 15 | 0 | 94 |
-| last720d | 2024-10-27 | 32 | 20 | 1 | 15 | 0 | 99 |
+| 30d | 2026-09-18 | 2 | 1 | 0 | 1 | 0 | 3 |
+| last60d | 2026-08-19 | 9 | 10 | 0 | 2 | 0 | 19 |
+| 90d | 2026-07-20 | 13 | 13 | 0 | 4 | 0 | 33 |
+| last180d | 2026-04-21 | 33 | 21 | 0 | 15 | 0 | 96 |
+| 360d | 2025-10-23 | 33 | 21 | 0 | 15 | 0 | 96 |
+| last720d | 2024-10-28 | 33 | 21 | 0 | 15 | 0 | 101 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [syswatch-linux-aarch64-static.tar.gz](https://github.com/matthart1983/syswatch/releases/download/v0.14.3/syswatch-linux-aarch64-static.tar.gz) | 1.4 MiB | `native/linux/arm64` |
-| [syswatch-linux-aarch64.tar.gz](https://github.com/matthart1983/syswatch/releases/download/v0.14.3/syswatch-linux-aarch64.tar.gz) | 1.5 MiB | `native/linux/arm64` |
-| [syswatch-linux-armv5te-static.tar.gz](https://github.com/matthart1983/syswatch/releases/download/v0.14.3/syswatch-linux-armv5te-static.tar.gz) | 1.6 MiB | `native/linux/arm` |
-| [syswatch-linux-x86_64-static.tar.gz](https://github.com/matthart1983/syswatch/releases/download/v0.14.3/syswatch-linux-x86_64-static.tar.gz) | 1.6 MiB | `native/linux/x64` |
-| [syswatch-linux-x86_64.tar.gz](https://github.com/matthart1983/syswatch/releases/download/v0.14.3/syswatch-linux-x86_64.tar.gz) | 1.6 MiB | `native/linux/x64` |
-| [syswatch-macos-aarch64.tar.gz](https://github.com/matthart1983/syswatch/releases/download/v0.14.3/syswatch-macos-aarch64.tar.gz) | 1.4 MiB | `native/darwin/arm64` |
-| [syswatch-macos-x86_64.tar.gz](https://github.com/matthart1983/syswatch/releases/download/v0.14.3/syswatch-macos-x86_64.tar.gz) | 1.5 MiB | `native/darwin/x64` |
+| [syswatch-linux-aarch64-static.tar.gz](https://github.com/matthart1983/syswatch/releases/download/v0.14.4/syswatch-linux-aarch64-static.tar.gz) | 1.4 MiB | `native/linux/arm64` |
+| [syswatch-linux-aarch64.tar.gz](https://github.com/matthart1983/syswatch/releases/download/v0.14.4/syswatch-linux-aarch64.tar.gz) | 1.5 MiB | `native/linux/arm64` |
+| [syswatch-linux-armv5te-static.tar.gz](https://github.com/matthart1983/syswatch/releases/download/v0.14.4/syswatch-linux-armv5te-static.tar.gz) | 1.6 MiB | `native/linux/arm` |
+| [syswatch-linux-x86_64-static.tar.gz](https://github.com/matthart1983/syswatch/releases/download/v0.14.4/syswatch-linux-x86_64-static.tar.gz) | 1.6 MiB | `native/linux/x64` |
+| [syswatch-linux-x86_64.tar.gz](https://github.com/matthart1983/syswatch/releases/download/v0.14.4/syswatch-linux-x86_64.tar.gz) | 1.6 MiB | `native/linux/x64` |
+| [syswatch-macos-aarch64.tar.gz](https://github.com/matthart1983/syswatch/releases/download/v0.14.4/syswatch-macos-aarch64.tar.gz) | 1.4 MiB | `native/darwin/arm64` |
+| [syswatch-macos-x86_64.tar.gz](https://github.com/matthart1983/syswatch/releases/download/v0.14.4/syswatch-macos-x86_64.tar.gz) | 1.5 MiB | `native/darwin/x64` |
 
 ## 改进这些数据
 
@@ -76,4 +76,4 @@ syswatch 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261017.yml` · 2026-10-17T05:37:49Z._
+_数据快照: `data/card/261018.yml` · 2026-10-18T05:46:22Z._
