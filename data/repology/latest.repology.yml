@@ -14,9 +14,9 @@
   srcname: syswatch-bin
   binname: syswatch-bin
   visiblename: syswatch-bin
-  version: 0.1.1
-  origversion: 0.1.1-1
-  status: outdated
+  version: 0.14.4
+  origversion: 0.14.4-1
+  status: newest
   summary: Single-host system diagnostics TUI
   maintainers:
     - kemelzaidan@aur
