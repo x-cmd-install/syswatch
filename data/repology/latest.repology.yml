@@ -29,6 +29,13 @@
   origversion: null
   status: newest
   summary: Cross-platform system diagnostics TUI
+- repo: homebrew
+  srcname: syswatch
+  visiblename: syswatch
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Cross-platform system diagnostics TUI
 - repo: nix_unstable
   srcname: syswatch
   visiblename: syswatch
