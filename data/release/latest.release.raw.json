@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1472698,
       "digest": "sha256:d5b2565aa8059b60f8769a6fe56472d6222be653ec0d0923585842a6c667bce6",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-10-17T21:38:13Z",
       "updated_at": "2026-10-17T21:38:14Z",
       "browser_download_url": "https://github.com/matthart1983/syswatch/releases/download/v0.14.4/syswatch-linux-aarch64-static.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 1559281,
       "digest": "sha256:21a1baf95bb2e3ba40ecc7e872dff10d636426276c42d3cc74946348dad8c1d1",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-10-17T21:38:13Z",
       "updated_at": "2026-10-17T21:38:14Z",
       "browser_download_url": "https://github.com/matthart1983/syswatch/releases/download/v0.14.4/syswatch-linux-aarch64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 1634776,
       "digest": "sha256:45dda51b29c29439c1deeda24b768c4a6a01f7af342b6ca6504b165c974f9c1c",
-      "download_count": 107,
+      "download_count": 120,
       "created_at": "2026-10-17T21:38:13Z",
       "updated_at": "2026-10-17T21:38:14Z",
       "browser_download_url": "https://github.com/matthart1983/syswatch/releases/download/v0.14.4/syswatch-linux-x86_64-static.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 1697217,
       "digest": "sha256:cf41b59825a581af6ac0b48389eb14e49b5d2f061e18d57961c259ae75c5d7cd",
-      "download_count": 54,
+      "download_count": 55,
       "created_at": "2026-10-17T21:38:13Z",
       "updated_at": "2026-10-17T21:38:14Z",
       "browser_download_url": "https://github.com/matthart1983/syswatch/releases/download/v0.14.4/syswatch-linux-x86_64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 1435094,
       "digest": "sha256:7b1665e7298ae0f3f3bfdf1f5473dc9a546dd87969db5619e2399312c5f0a00b",
-      "download_count": 88,
+      "download_count": 90,
       "created_at": "2026-10-17T21:38:13Z",
       "updated_at": "2026-10-17T21:38:14Z",
       "browser_download_url": "https://github.com/matthart1983/syswatch/releases/download/v0.14.4/syswatch-macos-aarch64.tar.gz"
