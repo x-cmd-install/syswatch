@@ -22,7 +22,7 @@ Total: **20,059** lines of code across **54** files in the top 5 languages.
 | Nix | 62 | 18 | 9 | 2 |
 | Toml | 52 | 36 | 9 | 1 |
 | Sh | 27 | 42 | 10 | 2 |
-| Markdown | 0 | 269 | 80 | 3 |
+| Markdown | 0 | 272 | 80 | 3 |
 
 ## Source
 
@@ -33,27 +33,27 @@ Total: **20,059** lines of code across **54** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.14.4` (2026-10-17)
-- **Last commit**: 2026-10-17
+- **Last commit**: 2026-10-27
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 917 · **Forks**: 42 · **Open issues**: 15 · **Contributors**: 6
+- **Stars**: 919 · **Forks**: 42 · **Open issues**: 15 · **Contributors**: 6
 
 ## Totals (cumulative)
 
-- **Releases**: 33 · **Merged PRs**: 21 · **Open PRs**: 0 · **Closed issues**: 15 · **Open issues**: 0 · **Commits**: 101
+- **Releases**: 33 · **Merged PRs**: 21 · **Open PRs**: 0 · **Closed issues**: 15 · **Open issues**: 0 · **Commits**: 102
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 2 | 1 | 0 | 1 | 0 | 3 |
-| last60d | 2026-08-28 | 8 | 10 | 0 | 2 | 0 | 19 |
-| 90d | 2026-07-29 | 11 | 12 | 0 | 2 | 0 | 33 |
-| last180d | 2026-04-30 | 33 | 21 | 0 | 15 | 0 | 82 |
-| 360d | 2025-11-01 | 33 | 21 | 0 | 15 | 0 | 96 |
-| last720d | 2024-11-06 | 33 | 21 | 0 | 15 | 0 | 101 |
+| 30d | 2026-09-28 | 2 | 1 | 0 | 1 | 0 | 4 |
+| last60d | 2026-08-29 | 8 | 10 | 0 | 2 | 0 | 20 |
+| 90d | 2026-07-30 | 11 | 12 | 0 | 2 | 0 | 34 |
+| last180d | 2026-05-01 | 33 | 21 | 0 | 15 | 0 | 83 |
+| 360d | 2025-11-02 | 33 | 21 | 0 | 15 | 0 | 97 |
+| last720d | 2024-11-07 | 33 | 21 | 0 | 15 | 0 | 102 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for syswatch lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261027.yml` · 2026-10-27T06:28:51Z._
+_Snapshot: `data/card/261028.yml` · 2026-10-28T07:06:34Z._
