@@ -1,31 +1,7 @@
-- repo: aur
-  srcname: syswatch
-  binname: syswatch
-  visiblename: syswatch
-  version: 0.14.4
-  origversion: 0.14.4-1
-  status: newest
-  summary: Single-host, read-only system diagnostics TUI — twelve tabs covering CPU, memory, disks, processes, GPU, power, services, network, plus a Timeline scrubber and an Insights anomaly engine
-  maintainers:
-    - dominiquini@aur
-  licenses:
-    - MIT
-- repo: aur
-  srcname: syswatch-bin
-  binname: syswatch-bin
-  visiblename: syswatch-bin
-  version: 0.14.4
-  origversion: 0.14.4-1
-  status: newest
-  summary: Single-host system diagnostics TUI
-  maintainers:
-    - kemelzaidan@aur
-  licenses:
-    - MIT
 - repo: homebrew
   srcname: syswatch
   visiblename: syswatch
-  version: 0.14.4
+  version: 0.14.5
   origversion: null
   status: newest
   summary: Cross-platform system diagnostics TUI
@@ -36,12 +12,36 @@
   origversion: null
   status: rolling
   summary: Cross-platform system diagnostics TUI
+- repo: aur
+  srcname: syswatch-bin
+  binname: syswatch-bin
+  visiblename: syswatch-bin
+  version: 0.14.4
+  origversion: 0.14.4-1
+  status: outdated
+  summary: Single-host system diagnostics TUI
+  maintainers:
+    - kemelzaidan@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: syswatch
+  binname: syswatch
+  visiblename: syswatch
+  version: 0.14.5
+  origversion: 0.14.5-1
+  status: newest
+  summary: Single-host, read-only system diagnostics TUI — twelve tabs covering CPU, memory, disks, processes, GPU, power, services, network, plus a Timeline scrubber and an Insights anomaly engine
+  maintainers:
+    - dominiquini@aur
+  licenses:
+    - MIT
 - repo: nix_unstable
   srcname: syswatch
   visiblename: syswatch
   version: 0.14.4
   origversion: null
-  status: newest
+  status: outdated
   summary: Single-host system diagnostics TUI tool
   maintainers:
     - mail@fabian-affolter.ch
