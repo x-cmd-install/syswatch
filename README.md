@@ -14,15 +14,15 @@ x install syswatch
 
 ## Code insight
 
-Total: **20,059** lines of code across **54** files in the top 5 languages.
+Total: **22,334** lines of code across **62** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 19,918 | 1,371 | 1,694 | 46 |
+| Rust | 22,011 | 1,420 | 1,824 | 50 |
+| Sh | 186 | 111 | 38 | 4 |
+| Toml | 75 | 59 | 14 | 2 |
 | Nix | 62 | 18 | 9 | 2 |
-| Toml | 52 | 36 | 9 | 1 |
-| Sh | 27 | 42 | 10 | 2 |
-| Markdown | 0 | 272 | 80 | 3 |
+| Markdown | 0 | 483 | 209 | 4 |
 
 ## Source
 
@@ -32,9 +32,9 @@ Total: **20,059** lines of code across **54** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.14.4` (2026-10-17)
-- **Last commit**: 2026-10-27
-- **Assets in release**: 7
+- **Latest**: `v0.14.5` (2026-11-03)
+- **Last commit**: 2026-11-03
+- **Assets in release**: 8
 
 ## Popularity
 
@@ -42,39 +42,40 @@ Total: **20,059** lines of code across **54** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 33 · **Merged PRs**: 21 · **Open PRs**: 0 · **Closed issues**: 15 · **Open issues**: 0 · **Commits**: 102
+- **Releases**: 34 · **Merged PRs**: 29 · **Open PRs**: 0 · **Closed issues**: 15 · **Open issues**: 0 · **Commits**: 111
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 2 | 1 | 0 | 1 | 0 | 4 |
-| last60d | 2026-09-04 | 8 | 10 | 0 | 2 | 0 | 20 |
-| 90d | 2026-08-05 | 11 | 12 | 0 | 2 | 0 | 34 |
-| last180d | 2026-05-07 | 26 | 21 | 0 | 15 | 0 | 71 |
-| 360d | 2025-11-08 | 33 | 21 | 0 | 15 | 0 | 97 |
-| last720d | 2024-11-13 | 33 | 21 | 0 | 15 | 0 | 102 |
+| 30d | 2026-10-05 | 3 | 9 | 0 | 1 | 0 | 13 |
+| last60d | 2026-09-05 | 9 | 18 | 0 | 2 | 0 | 29 |
+| 90d | 2026-08-06 | 12 | 20 | 0 | 2 | 0 | 43 |
+| last180d | 2026-05-08 | 27 | 29 | 0 | 15 | 0 | 80 |
+| 360d | 2025-11-09 | 34 | 29 | 0 | 15 | 0 | 106 |
+| last720d | 2024-11-14 | 34 | 29 | 0 | 15 | 0 | 111 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [syswatch-linux-aarch64-static.tar.gz](https://github.com/matthart1983/syswatch/releases/download/v0.14.4/syswatch-linux-aarch64-static.tar.gz) | 1.4 MiB | `native/linux/arm64` |
-| [syswatch-linux-aarch64.tar.gz](https://github.com/matthart1983/syswatch/releases/download/v0.14.4/syswatch-linux-aarch64.tar.gz) | 1.5 MiB | `native/linux/arm64` |
-| [syswatch-linux-armv5te-static.tar.gz](https://github.com/matthart1983/syswatch/releases/download/v0.14.4/syswatch-linux-armv5te-static.tar.gz) | 1.6 MiB | `native/linux/arm` |
-| [syswatch-linux-x86_64-static.tar.gz](https://github.com/matthart1983/syswatch/releases/download/v0.14.4/syswatch-linux-x86_64-static.tar.gz) | 1.6 MiB | `native/linux/x64` |
-| [syswatch-linux-x86_64.tar.gz](https://github.com/matthart1983/syswatch/releases/download/v0.14.4/syswatch-linux-x86_64.tar.gz) | 1.6 MiB | `native/linux/x64` |
-| [syswatch-macos-aarch64.tar.gz](https://github.com/matthart1983/syswatch/releases/download/v0.14.4/syswatch-macos-aarch64.tar.gz) | 1.4 MiB | `native/darwin/arm64` |
-| [syswatch-macos-x86_64.tar.gz](https://github.com/matthart1983/syswatch/releases/download/v0.14.4/syswatch-macos-x86_64.tar.gz) | 1.5 MiB | `native/darwin/x64` |
+| [SHA256SUMS](https://github.com/matthart1983/syswatch/releases/download/v0.14.5/SHA256SUMS) | 690 B | `other` |
+| [syswatch-linux-aarch64-static.tar.gz](https://github.com/matthart1983/syswatch/releases/download/v0.14.5/syswatch-linux-aarch64-static.tar.gz) | 1.4 MiB | `native/linux/arm64` |
+| [syswatch-linux-aarch64.tar.gz](https://github.com/matthart1983/syswatch/releases/download/v0.14.5/syswatch-linux-aarch64.tar.gz) | 1.4 MiB | `native/linux/arm64` |
+| [syswatch-linux-armv5te-static.tar.gz](https://github.com/matthart1983/syswatch/releases/download/v0.14.5/syswatch-linux-armv5te-static.tar.gz) | 1.6 MiB | `native/linux/arm` |
+| [syswatch-linux-x86_64-static.tar.gz](https://github.com/matthart1983/syswatch/releases/download/v0.14.5/syswatch-linux-x86_64-static.tar.gz) | 1.5 MiB | `native/linux/x64` |
+| [syswatch-linux-x86_64.tar.gz](https://github.com/matthart1983/syswatch/releases/download/v0.14.5/syswatch-linux-x86_64.tar.gz) | 1.5 MiB | `native/linux/x64` |
+| [syswatch-macos-aarch64.tar.gz](https://github.com/matthart1983/syswatch/releases/download/v0.14.5/syswatch-macos-aarch64.tar.gz) | 1.3 MiB | `native/darwin/arm64` |
+| [syswatch-macos-x86_64.tar.gz](https://github.com/matthart1983/syswatch/releases/download/v0.14.5/syswatch-macos-x86_64.tar.gz) | 1.5 MiB | `native/darwin/x64` |
 
 ## Distribution status
 
-Reported by **6** distros on [repology.org](https://repology.org/project/syswatch). **4** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
+Reported by **6** distros on [repology.org](https://repology.org/project/syswatch). **2** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `0.14.4` | ✅ latest |
-| Nix unstable | `0.14.4` | ✅ latest |
+| Homebrew | `0.14.5` | ✅ latest |
+| Nix unstable | `0.14.4` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -85,4 +86,4 @@ Install metadata for syswatch lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T08:24:59Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T07:58:34Z._
