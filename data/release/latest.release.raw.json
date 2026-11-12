@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 690,
       "digest": "sha256:aacb56489dfd8f45d1f05432b3ff2545c0a06a80d86792874cc3c5d60357b4ec",
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2026-11-03T10:09:35Z",
       "updated_at": "2026-11-03T10:09:35Z",
       "browser_download_url": "https://github.com/matthart1983/syswatch/releases/download/v0.14.5/SHA256SUMS"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 1573087,
       "digest": "sha256:19226bf342dfc05aeddebd275207ab9c73942a57014e9b3ffc124f46bdfcdb3e",
-      "download_count": 60,
+      "download_count": 63,
       "created_at": "2026-11-03T10:09:35Z",
       "updated_at": "2026-11-03T10:09:35Z",
       "browser_download_url": "https://github.com/matthart1983/syswatch/releases/download/v0.14.5/syswatch-linux-x86_64-static.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 1597186,
       "digest": "sha256:6662756fd4ab40c695134a85885c796addafb8ba6f196295906764d5b656503a",
-      "download_count": 39,
+      "download_count": 42,
       "created_at": "2026-11-03T10:09:35Z",
       "updated_at": "2026-11-03T10:09:35Z",
       "browser_download_url": "https://github.com/matthart1983/syswatch/releases/download/v0.14.5/syswatch-linux-x86_64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 1382140,
       "digest": "sha256:ca6492698cd56fa8bfd35f3b68a5661de626c2b6972563700791a735cf5e5290",
-      "download_count": 82,
+      "download_count": 86,
       "created_at": "2026-11-03T10:09:35Z",
       "updated_at": "2026-11-03T10:09:36Z",
       "browser_download_url": "https://github.com/matthart1983/syswatch/releases/download/v0.14.5/syswatch-macos-aarch64.tar.gz"
