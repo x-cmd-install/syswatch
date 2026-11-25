@@ -38,7 +38,7 @@ Total: **22,334** lines of code across **62** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 941 · **Forks**: 45 · **Open issues**: 15 · **Contributors**: 6
+- **Stars**: 944 · **Forks**: 45 · **Open issues**: 15 · **Contributors**: 6
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **22,334** lines of code across **62** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 1 | 8 | 3 | 0 | 0 | 9 |
-| last60d | 2026-09-25 | 3 | 9 | 3 | 1 | 0 | 13 |
-| 90d | 2026-08-26 | 9 | 18 | 3 | 2 | 0 | 29 |
-| last180d | 2026-05-28 | 20 | 28 | 3 | 14 | 0 | 65 |
-| 360d | 2025-11-29 | 34 | 29 | 3 | 15 | 0 | 106 |
-| last720d | 2024-12-04 | 34 | 29 | 3 | 15 | 0 | 111 |
+| 30d | 2026-10-26 | 1 | 8 | 3 | 0 | 0 | 9 |
+| last60d | 2026-09-26 | 3 | 9 | 3 | 1 | 0 | 13 |
+| 90d | 2026-08-27 | 9 | 18 | 3 | 2 | 0 | 29 |
+| last180d | 2026-05-29 | 20 | 28 | 3 | 14 | 0 | 65 |
+| 360d | 2025-11-30 | 34 | 29 | 3 | 15 | 0 | 106 |
+| last720d | 2024-12-05 | 34 | 29 | 3 | 15 | 0 | 111 |
 
 ## Release assets
 
@@ -68,15 +68,6 @@ Total: **22,334** lines of code across **62** files in the top 5 languages.
 | [syswatch-macos-aarch64.tar.gz](https://github.com/matthart1983/syswatch/releases/download/v0.14.5/syswatch-macos-aarch64.tar.gz) | 1.3 MiB | `native/darwin/arm64` |
 | [syswatch-macos-x86_64.tar.gz](https://github.com/matthart1983/syswatch/releases/download/v0.14.5/syswatch-macos-x86_64.tar.gz) | 1.5 MiB | `native/darwin/x64` |
 
-## Distribution status
-
-Reported by **6** distros on [repology.org](https://repology.org/project/syswatch). **4** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `0.14.5` | ✅ latest |
-| Nix unstable | `0.14.5` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for syswatch lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `syswatch` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -86,4 +77,4 @@ Install metadata for syswatch lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:35:07Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T10:10:30Z._
